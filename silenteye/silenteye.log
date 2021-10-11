@@ -1,0 +1,3 @@
+INFO[SECryptoAES128][22:19:40] Silent Eye Encryption AES128: aes128-cbc-pkcs7 supported by system [OK]
+INFO[SECryptoAES256][22:19:40] Silent Eye Encryption AES256: aes256-cbc-pkcs7 supported by system [OK]
+WARNING[ImageJPEG][22:20:02] data size > capacity (2697769552 > 1758)
